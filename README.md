@@ -1,4 +1,4 @@
-A simple Laravel-based finance tracker called **Wallet** that helps you manage income and expenses, visualize data through charts, and export reports with ease. Special thanks to [Nejcc](https://github.com/Nejcc)! 👑
+Meet **Wallet**, a simple Laravel-based finance tracker that helps you manage income and expenses, visualize data through charts, and export reports with ease. Special thanks to [Nejcc](https://github.com/Nejcc)! 👑
 
 ![image](https://github.com/user-attachments/assets/76dbbcf9-4231-415a-b277-f0401d99dd15)
 
