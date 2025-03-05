@@ -4,8 +4,6 @@ use App\Http\Controllers\ChartController;
 use App\Http\Controllers\WalletController;
 use App\Http\Controllers\WalletExportController;
 use Illuminate\Support\Facades\Route;
-use App\Exports\WalletsExport;
-use Maatwebsite\Excel\Facades\Excel;
 
 Route::get('wallets', [WalletController::class, 'index'])->name('wallets.index');
 Route::get('wallets/create', [WalletController::class, 'create'])->name('wallets.create');
