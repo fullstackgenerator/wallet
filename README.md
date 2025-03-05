@@ -20,7 +20,7 @@ In the process, I killed two birds with one stone. Not literally, though.
 
 ![image](https://github.com/user-attachments/assets/3a14b810-52d6-4301-a5b9-89391180816b)
 
-3. Track and Visualize: Your entries appear in the table on the right. Click ‘Graph’ for a visual breakdown and download it if needed.
+3. Track and Visualize: Your entries appear in the table on the right. Click ‘Chart’ for a visual breakdown and download it if needed.
 
 ![image](https://github.com/user-attachments/assets/28b0e495-ce95-41a6-86ed-a434942e2651)
 
