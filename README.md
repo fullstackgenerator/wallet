@@ -1,3 +1,7 @@
+### Wallet
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Meet **Wallet**, a simple Laravel-based finance tracker that helps you manage income and expenses, visualize data through charts, and export reports with ease. Special thanks to [Nejcc](https://github.com/Nejcc)! 👑
 
 ![image](https://github.com/user-attachments/assets/76dbbcf9-4231-415a-b277-f0401d99dd15)
@@ -27,3 +31,7 @@ In the process, I killed two birds with one stone. Not literally, though.
 5. Export Your Data: With **Laravel Excel**, exporting is just a click away - quick, easy, and efficient.  
 
 ![image](https://github.com/user-attachments/assets/55f16dd0-3eca-4c9e-bc81-f630fab27023)
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
