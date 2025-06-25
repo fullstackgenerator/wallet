@@ -11,8 +11,6 @@ I built this app because:
 1. I enjoy Laravel’s no-nonsense approach.  
 2. I like keeping track of my finances.  
 
-In the process, I killed two birds with one stone. Not literally, though.  
-
 #### What's under the hood:  
 - Laravel – a solid framework for a solid app.  
 - Laravel Excel – makes exporting data effortless.  
